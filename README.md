@@ -1,2 +1,2 @@
 # docker_master
-mastering docjer
+mastering docker
